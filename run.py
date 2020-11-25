@@ -13,7 +13,7 @@ from python.network.aggregation_model import *
 from datetime import datetime
 
 
-LOG_FILENAME = 'log/{0}'.format(datetime.now())
+LOG_FILENAME = 'log/{0}.log'.format(datetime.now())
 
 logging.basicConfig(stream=sys.stderr, filename=LOG_FILENAME, level=logging.INFO)
 
