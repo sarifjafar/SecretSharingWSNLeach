@@ -1,0 +1,13 @@
+INFO:root:Instantiating nodes...
+INFO:root:Base Station : -1
+INFO:root:Scenerio : cf.FITNESS_ALPHA=0.7
+INFO:root:Scenerio : cf.FITNESS_BETA=0.3
+INFO:root:Scenerio Name : LEACH
+INFO:root:Routing Class : <class 'python.routing.leach.LEACH'>
+INFO:root:Aggregation Function : zero_cost_aggregation
+INFO:root:LEACH: running scenario...
+INFO:root:round 0: total remaining energy: 15.000000
+INFO:root:LEACH: setup phase.
+INFO:root:LEACH: deciding which nodes are cluster heads.
+INFO:root:LEACH: ordinary nodes choose nearest nearest cluster head
+INFO:root:node -1 transmitting.
